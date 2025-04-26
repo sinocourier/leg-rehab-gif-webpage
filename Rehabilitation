@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>左腿康复动图训练</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 1rem;
+      background: #f7f7f7;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      color: #006666;
+    }
+    .exercise {
+      background: white;
+      border-radius: 12px;
+      padding: 1rem;
+      margin: 1rem 0;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    .exercise img {
+      width: 100%;
+      max-width: 400px;
+      display: block;
+      margin: 0 auto 1rem;
+      border-radius: 8px;
+    }
+    .exercise h2 {
+      margin-top: 0;
+      color: #004d4d;
+    }
+    .note {
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>左腿康复动图训练</h1>
+
+  <div class="exercise">
+    <img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" alt="坐姿髋屈肌抬腿" />
+    <h2>坐姿髋屈肌抬腿</h2>
+    <p>坐在椅子上，慢慢抬起左腿，保持背部挺直，重复15次。</p>
+    <p class="note">作用：激活髋屈肌群，改善久坐后髋关节僵硬。</p>
+  </div>
+
+  <div class="exercise">
+    <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" alt="坐姿伸膝" />
+    <h2>坐姿伸膝</h2>
+    <p>抬起小腿至伸直，停留2秒再缓慢放下，左右交替进行。</p>
+    <p class="note">作用：激活股四头肌，保护膝盖稳定性。</p>
+  </div>
+
+  <div class="exercise">
+    <img src="https://media.giphy.com/media/26FPp5P9gD8dxy2fm/giphy.gif" alt="泡沫轴放松内收肌" />
+    <h2>泡沫轴滚动放松（大腿内侧）</h2>
+    <p>将泡沫轴置于大腿内侧，缓慢滚动，避免压到膝关节处。</p>
+    <p class="note">作用：放松过度紧张的内收肌，缓解膝盖上缘压力。</p>
+  </div>
+
+  <div class="exercise">
+    <img src="https://media.giphy.com/media/3ohhwCqtsb2l50RHVu/giphy.gif" alt="靠墙静蹲" />
+    <h2>靠墙静蹲</h2>
+    <p>背靠墙壁缓慢下蹲，保持大腿与地面平行，停留10秒，逐渐延长至30秒。</p>
+    <p class="note">作用：强化股四头肌、臀肌，控制膝盖稳定性。</p>
+  </div>
+
+  <div class="exercise">
+    <img src="https://media.giphy.com/media/3oKIPa2TdahY8pnlmo/giphy.gif" alt="站姿股四头肌拉伸" />
+    <h2>站姿股四头肌拉伸</h2>
+    <p>一手扶墙，另一手握住脚踝向后拉，膝盖并拢保持30秒。</p>
+    <p class="note">作用：放松股四头肌，减轻髌上肌腱压力。</p>
+  </div>
+
+  <div class="exercise">
+    <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="坐姿内收肌拉伸" />
+    <h2>坐姿内收肌拉伸</h2>
+    <p>双脚脚掌相对，膝盖自然向外落下，身体前倾保持30秒。</p>
+    <p class="note">作用：拉伸内收肌群，改善内侧膝痛。</p>
+  </div>
+</body>
+</html>
